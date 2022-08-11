@@ -1,49 +1,10 @@
-<p align="center"><img width="128" height="128" src="https://i.imgur.com/uVpmR8l.png"></p>
-<h1 align="center">Buster: Captcha Solver for Humans</h1>
-
-<p align="center">
-  </br></br>
-  <a href="https://chrome.google.com/webstore/detail/mpbjkejclgfgadiemmefgebjfooflfhl">
-    <img height="58" src="https://i.imgur.com/K9Yh8G9.png" alt="Chrome Web Store"></a>
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver/">
-    <img height="58" src="https://i.imgur.com/2jJOtTI.png" alt="Firefox add-ons"></a>
-  <a href="https://microsoftedge.microsoft.com/addons/detail/admkpobhocmdideidcndkfaeffadipkc">
-    <img height="58" src="https://i.imgur.com/es2YFRA.png" alt="Microsoft Store"></a>
-  <a href="https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans/">
-    <img height="58" src="https://i.imgur.com/IYYsrwg.png" alt="Opera add-ons"></a>
-  </br></br>
-</p>
-
-## Supporting the Project
-
-The continued development of Buster is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=buster&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=buster&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=buster&src=repo).
-
 ## Description
 
-> Obviously, this blue part here is the land.
->
-> — <cite>Byron "Buster" Bluth, reading a map</cite>
+很多网站为了防止机器爬虫的流量，会采用Google设计的检测方式，让你辨别图案中的特定部分，证明自己不是机器人。
 
-Buster is a browser extension which helps you to solve difficult captchas
-by completing reCAPTCHA audio challenges using speech recognition.
-Challenges are solved by clicking on the extension button at the bottom
-of the reCAPTCHA widget.
+虽然初衷是好的，但是考虑到每天数以亿计的访问次数，如果把网民们花在这种行为上的时间累积起来，恐怕也是天文数字，这是对人类时间的极大浪费。
 
-reCAPTCHA challenges remain a considerable burden on the web,
-delaying and often blocking our access to services and information
-depending on our physical and cognitive abilities, our social
-and cultural background, and the devices or networks we connect from.
-
-The difficulty of captchas can be so out of balance,
-that sometimes they seem friendlier to bots than they are to humans.
-
-The goal of this project is to improve our experience with captchas,
-by giving us easy access to solutions already utilized by automated systems.
+这款Chrome插件支持包括Chrome、FireFox、Edge、Opera在内的主流浏览器，调取经过训练之后的人工智能帮助用户通过验证，再也不需要费力的靠肉眼去点格子了。
 
 ## Screenshots
 
@@ -51,10 +12,3 @@ by giving us easy access to solutions already utilized by automated systems.
   <img width="414" src="https://i.imgur.com/hTqeN4z.png">
   <img width="414" src="https://i.imgur.com/o0qqDd5.png">
 </p>
-
-## License
-
-Copyright (c) 2018-2021 Armin Sebastian
-
-This software is released under the terms of the GNU General Public License v3.0.
-See the [LICENSE](LICENSE) file for further information.
